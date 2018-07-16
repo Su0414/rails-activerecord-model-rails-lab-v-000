@@ -23,3 +23,4 @@ Processing by Rails::InfoController#properties as */*
   [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
   Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/railties-4.2.3/lib/rails/templates/rails/info/properties.html.erb (0.5ms)
 Completed 200 OK in 112ms (Views: 41.5ms | ActiveRecord: 3.4ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
